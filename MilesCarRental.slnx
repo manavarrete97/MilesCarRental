@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="MilesCarRental.Api/MilesCarRental.Api.csproj" />
+  <Project Path="MilesCarRental.Application/MilesCarRental.Application.csproj" />
+  <Project Path="MilesCarRental.Domain/MilesCarRental.Domain.csproj" />
+  <Project Path="MilesCarRental.Infrastructure/MilesCarRental.Infrastructure.csproj" />
+  <Project Path="MilesCarRental.Tests/MilesCarRental.Tests.csproj" />
+</Solution>
